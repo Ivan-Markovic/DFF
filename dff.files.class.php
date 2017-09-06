@@ -4,7 +4,7 @@
 	DFF Scaner v 1.1 [php5] [ 5/12/2007 8:19 PM ]
 	- Files class [files scan]
 	
-	Ivan Markovic < ivan[dot]markovic[at]netsec[dot]rs >
+	Ivan Markovic <ivanm@security-net.biz>
 	http://security-net.biz
     
     About: Dictionary scanner for common files on web locations.
